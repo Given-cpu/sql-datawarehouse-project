@@ -40,6 +40,9 @@ CREATE SCHEMA bronze;
 GO
 
 CREATE SCHEMA silver;
+/*
+GO 不是 SQL 语句，是 SSMS 的批次分隔符 — 告诉 SSMS "上面这段发送给服务器执行，然后再执行下面的"。可以理解为分段执行的标记。
+*/
 GO
 
 CREATE SCHEMA gold;
