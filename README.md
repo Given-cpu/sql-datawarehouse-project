@@ -22,7 +22,7 @@
 
 ## Why Data Warehousing?
 
-In the real world, a company rarely has just one database. It has a **CRM** for customers, an **ERP** for finance, a **POS system** for sales — each storing data in its own format, its own structure, with its own definition of what "a customer" or "a sale" even means.
+In the real world, a company rarely has just one database. It has a **CRM(Customer relationship management)** for customers, an **ERP(Enterprise resource planning)** for finance, a **POS(Point of Sale) system** for sales — each storing data in its own format, its own structure, with its own definition of what "a customer" or "a sale" even means.
 
 Without a data warehouse, every analyst manually collects data from each system, cleans it themselves, and builds their own report. Three analysts, three different numbers for the same question. No shared history. No automation. No trust.
 
