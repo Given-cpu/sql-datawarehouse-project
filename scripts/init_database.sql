@@ -23,6 +23,10 @@ BEGIN
     DROP DATABASE DataWarehouse;
 END;
 GO
+/*
+修改名为 DataWarehouse 的数据库设置。把数据库设为“单用户模式”。
+立刻踢出当前所有连接用户，并撤销未提交事务。别废话，马上清场，我要维护数据库。
+*/
 
 -- Create the 'DataWarehouse' database
 CREATE DATABASE DataWarehouse;
