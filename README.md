@@ -8,15 +8,15 @@
 
 ## Table of Contents
 
-1. [Why Data Warehousing?](##-why-data-warehousing)
-2. [Project Overview](##-project-overview)
-3. [Core Architecture](##-core-architecture)
-4. [Data Architecture: The Medallion Model](##-data-architecture-the-medallion-model)
-5. [ETL Pipeline](##-etl-pipeline)
-6. [Data Modeling](##-data-modeling)
-7. [Data Analytics](##-data-analytics)
-8. [Repository Structure](##-repository-structure)
-9. [Tools & Technologies](##-tools--technologies)
+1. [Why Data Warehousing?](#-why-data-warehousing)
+2. [Project Overview](#-project-overview)
+3. [Core Architecture](#-core-architecture)
+4. [Data Architecture: The Medallion Model](#-data-architecture-the-medallion-model)
+5. [ETL Pipeline](#-etl-pipeline)
+6. [Data Modeling](#-data-modeling)
+7. [Data Analytics](#-data-analytics)
+8. [Repository Structure](#-repository-structure)
+9. [Tools & Technologies](#-tools--technologies)
 
 ---
 
